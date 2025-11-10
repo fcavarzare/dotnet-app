@@ -1,0 +1,12 @@
+{
+  "profiles": {
+    "MeuappDotNet": {
+      "commandName": "Project",
+      "launchBrowser": true,
+      "environmentVariables": {
+        "ASPNETCORE_ENVIRONMENT": "Development"
+      },
+      "applicationUrl": "https://localhost:53272;http://localhost:53273"
+    }
+  }
+}
